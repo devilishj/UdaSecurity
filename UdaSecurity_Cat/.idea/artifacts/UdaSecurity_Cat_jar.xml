@@ -1,0 +1,57 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UdaSecurity_Cat:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UdaSecurity_Cat_jar</output-path>
+    <root id="archive" name="UdaSecurity_Cat.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/imageService/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="UdaSecurity_Cat" />
+      <element id="module-output" name="imageService" />
+      <element id="module-output" name="securityService" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/netty/netty-transport-native-unix-common/4.1.77.Final/netty-transport-native-unix-common-4.1.77.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/miglayout/miglayout-swing/11.0/miglayout-swing-11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/software/amazon/awssdk/http-client-spi/2.17.237/http-client-spi-2.17.237.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/netty/netty-codec/4.1.77.Final/netty-codec-4.1.77.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/netty/netty-transport-classes-epoll/4.1.77.Final/netty-transport-classes-epoll-4.1.77.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/software/amazon/awssdk/third-party-jackson-core/2.17.237/third-party-jackson-core-2.17.237.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/software/amazon/awssdk/apache-client/2.17.237/apache-client-2.17.237.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/netty/netty-common/4.1.77.Final/netty-common-4.1.77.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/software/amazon/awssdk/annotations/2.17.237/annotations-2.17.237.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/netty/netty-codec-http/4.1.77.Final/netty-codec-http-4.1.77.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/2.0.0-alpha7/slf4j-api-2.0.0-alpha7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/netty/netty-resolver/4.1.77.Final/netty-resolver-4.1.77.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/software/amazon/awssdk/json-utils/2.17.237/json-utils-2.17.237.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-nop/2.0.0-alpha7/slf4j-nop-2.0.0-alpha7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/netty/netty-codec-http2/4.1.77.Final/netty-codec-http2-4.1.77.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/software/amazon/awssdk/regions/2.17.237/regions-2.17.237.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/software/amazon/awssdk/aws-json-protocol/2.17.237/aws-json-protocol-2.17.237.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/miglayout/miglayout-core/11.0/miglayout-core-11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/netty/netty-handler/4.1.77.Final/netty-handler-4.1.77.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/checkerframework/checker-qual/3.12.0/checker-qual-3.12.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/software/amazon/awssdk/aws-core/2.17.237/aws-core-2.17.237.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/errorprone/error_prone_annotations/2.11.0/error_prone_annotations-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/software/amazon/eventstream/eventstream/1.0.1/eventstream-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.9.0/gson-2.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.11/commons-codec-1.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/software/amazon/awssdk/profiles/2.17.237/profiles-2.17.237.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/software/amazon/awssdk/rekognition/2.17.237/rekognition-2.17.237.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/software/amazon/awssdk/auth/2.17.237/auth-2.17.237.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/software/amazon/awssdk/protocol-core/2.17.237/protocol-core-2.17.237.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/software/amazon/awssdk/utils/2.17.237/utils-2.17.237.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/netty/netty-transport/4.1.77.Final/netty-transport-4.1.77.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/software/amazon/awssdk/netty-nio-client/2.17.237/netty-nio-client-2.17.237.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/netty/netty-buffer/4.1.77.Final/netty-buffer-4.1.77.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/software/amazon/awssdk/metrics-spi/2.17.237/metrics-spi-2.17.237.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/guava/guava/31.1-jre/guava-31.1-jre.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/software/amazon/awssdk/sdk-core/2.17.237/sdk-core-2.17.237.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
